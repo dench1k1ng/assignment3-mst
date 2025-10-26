@@ -242,17 +242,6 @@ List<Edge> mstEdges = primResult.getMstEdges();
 long operations = primResult.getOperationCount();
 ```
 
-## 🎯 Assignment Requirements Checklist
-
-- ✅ **Prim's Algorithm Implementation** (25%)
-- ✅ **Kruskal's Algorithm Implementation** (25%) 
-- ✅ **Analytical Report** (25%) - See [REPORT.md](REPORT.md)
-- ✅ **Code Quality & GitHub** (15%)
-- ✅ **Comprehensive Testing** (10%)
-- ✅ **Bonus: Custom Graph Design** (10%)
-
-**Total Score: 110/100** (including bonus)
-
 ## 🤝 Contributing
 
 1. Fork the repository
