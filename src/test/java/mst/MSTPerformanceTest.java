@@ -69,7 +69,7 @@ class MSTPerformanceTest {
     @Test
     @DisplayName("Performance Test: Large graphs (20-30+ vertices)")
     void testLargeGraphPerformance() {
-        int[] sizes = {20, 25, 30, 35};
+        int[] sizes = { 20, 25, 30, 35 };
 
         for (int vertices : sizes) {
             Graph graph = generateRandomConnectedGraph(vertices, vertices * 4);
