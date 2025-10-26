@@ -1,0 +1,11 @@
+Graph_ID,Graph_Name,Vertices,Edges,Density,Prim_Cost,Prim_Ops,Prim_Time_ms,Kruskal_Cost,Kruskal_Ops,Kruskal_Time_ms,Cost_Match
+1,Small_Simple_Path,4,5,0.833,6.0,20,0,6.0,23,0,YES
+2,Small_Pentagon,5,7,0.700,16.0,30,0,16.0,36,0,YES
+3,Small_Complete_K4,4,6,1.000,15.0,22,0,15.0,25,0,YES
+4,Medium_City_Districts,10,15,0.333,41.0,69,0,41.0,97,0,YES
+5,Medium_Dense_Network,12,20,0.303,69.0,82,0,69.0,123,0,YES
+6,Large_Metropolitan,20,31,0.163,195.0,135,1,195.0,210,0,YES
+7,Large_Sparse_Network,25,28,0.093,128.0,131,0,128.0,213,0,YES
+8,Large_Dense_Network,30,50,0.115,235.0,212,0,235.0,349,0,YES
+9,Edge_Case_Single_Vertex,1,0,0.000,0.0,1,0,0.0,0,0,YES
+10,Edge_Case_Two_Vertices,2,1,1.000,42.0,5,0,42.0,5,0,YES
